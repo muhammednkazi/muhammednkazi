@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammednkazi
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in DevOps, Git, GitHub, Jenkins, Ansible, Terraform, Docker, Kubernetes.
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
